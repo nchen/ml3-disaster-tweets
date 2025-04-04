@@ -1,13 +1,17 @@
-# ml3-disaster-tweets
+# NLP with Disaster Tweets
 
-Environment setup:
+This is for the Kaggle project located here: <https://www.kaggle.com/competitions/nlp-getting-started/overview>
+
+In this project I trained a deep learning model `LSTM` to predict whether a tweet is disaster related or not.
+
+## Environment setup:
 
 - OS: Windows 11
 - GPU: NVIDIA GeForce RTX 3060 Laptop GPU
 - CUDA 11.2.2
 - cuDNN 8.1.1
 
-Python related:
+## Python related:
 
 ```
 choco install pyenv-win
